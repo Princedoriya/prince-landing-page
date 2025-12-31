@@ -65,4 +65,4 @@ http://localhost:3000
 The landing page is deployed on Vercel.
 
 Live URL: <your-deployed-link>
-GitHub Repository: <your-github-repo-link>
+GitHub Repository: <https://github.com/Princedoriya/prince-landing-page>
